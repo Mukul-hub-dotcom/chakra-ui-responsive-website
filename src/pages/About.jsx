@@ -1,0 +1,19 @@
+import React from 'react'
+import { Heading } from '@chakra-ui/react'
+import { Button, ButtonGroup } from '@chakra-ui/react'
+function About() {
+  return (
+    <div style={{padding:'5rem'}}>
+     <Heading>About Page</Heading>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque consequuntur esse fugiat veritatis tempora saepe sint, vel debitis quasi consequatur obcaecati laudantium culpa itaque perferendis. Commodi eveniet ab suscipit vitae, atque quidem obcaecati provident inventore. Consequatur quasi provident quo dignissimos dolor, cum omnis cumque eveniet consectetur officiis necessitatibus vitae placeat fuga quidem inventore eos delectus soluta ipsa dolorum expedita debitis! Iste sapiente aut iure tempora corporis vel magnam, eligendi adipisci optio illo tenetur magni facilis hic dolores id accusamus inventore ipsa nisi eius. Maxime, atque iure harum aspernatur mollitia soluta magni sed beatae voluptate, cupiditate consequatur earum quia fuga nulla esse quisquam, ab laboriosam. Tempore ipsa aspernatur alias libero maiores soluta consectetur? Aliquam natus, perferendis delectus iure quam tempora, voluptas suscipit nemo facere minus eius repellendus maxime soluta ullam sequi aspernatur quidem veniam nisi impedit distinctio ipsa accusantium voluptatem et tenetur? Quas saepe corrupti molestias reprehenderit maxime, quibusdam obcaecati ab similique dicta necessitatibus illum natus quos iure ex consequuntur itaque eaque vitae nostrum, aliquam doloremque deserunt minima iste. Repudiandae nam neque, accusantium corrupti consequatur ratione assumenda officia pariatur ipsa minus quos ducimus fuga doloremque, dicta, alias ad dolor possimus consectetur voluptas minima dolore laboriosam id repellendus! Dolorum quo aliquid repudiandae fugiat cupiditate mollitia eligendi molestias voluptas nulla, et minus veniam rerum ullam consectetur perspiciatis enim nemo sunt qui corporis necessitatibus? Dolor aspernatur nostrum minima odit, iusto delectus architecto quidem harum tempore numquam! Molestias culpa quaerat ratione ullam nostrum, voluptas, distinctio repellat praesentium temporibus qui pariatur quidem harum! Consequatur iure modi eos ad delectus atque mollitia ea accusantium, illum dolore dolores blanditiis harum. Harum repudiandae nostrum, cumque autem iusto excepturi iste aspernatur temporibus aut suscipit, itaque eius amet minima laborum facilis incidunt corporis voluptas eligendi voluptatibus. Dolorem ipsam iure nisi adipisci illum tempore fugit, repellendus fugiat culpa. Esse dignissimos reiciendis ab nam, doloribus consectetur alias ullam vero. Totam, modi itaque voluptates dolorem sit ut fugiat? Animi hic, aliquam quibusdam iure cupiditate odit at pariatur nesciunt excepturi modi et, suscipit ducimus dolores laboriosam qui minus deleniti eaque repellendus. Excepturi, tempore totam odit voluptatem dolorum, amet deserunt at expedita pariatur accusantium laborum quas magni fugiat vel, voluptatibus obcaecati praesentium commodi! Beatae id rem eligendi? Nihil expedita quasi labore maxime quam, ullam adipisci tenetur ex corrupti libero quidem vel veritatis? Enim labore assumenda fuga saepe laudantium ullam aperiam fugiat atque quaerat cumque obcaecati facilis, ipsa dolorum soluta cupiditate laboriosam. Quaerat explicabo sint esse, magnam saepe architecto! Ullam doloribus ducimus id voluptatibus, saepe iste hic est. Unde dicta repellendus, corporis perferendis expedita saepe facere iste porro quo voluptas rerum. Tempore necessitatibus dolore consequuntur iste veritatis ducimus eius nobis, voluptatibus eaque ipsa. Corporis neque iste, recusandae earum doloribus molestias eligendi eius perferendis rem nostrum dolore labore assumenda cum?</p>
+    <div style={{margin:'10px'}}>
+    <Button colorScheme='blue'>Continue Shopping</Button>
+    <Button style={{marginLeft:'10px'}} colorScheme='blue'>Learn more</Button>
+    </div>
+    
+    </div>
+    
+  )
+}
+
+export default About
